@@ -198,7 +198,7 @@ Sensor fusion is the process of combining data from multiple sensors to achieve 
 ### ROS-Based Implementations
 
 - **robot_localization**: [GitHub](https://github.com/cra-ros-pkg/robot_localization)
-  - **Setup Guide**: [Fusing Wheel Odometry and IMU Tutorial](https://blog.abdurrosyid.com/2021/07/21/fusing-wheel-odometry-and-imu-data-using-robot_localization-in-ros/)[6]
+  - **Setup Guide**: [Fusing Wheel Odometry and IMU Tutorial](https://blog.abdurrosyid.com/2021/07/21/fusing-wheel-odometry-and-imu-data-using-robot_localization-in-ros/)
   - **Configuration Example**:
     ```yaml
     # Sample ekf_localization.yaml configuration
